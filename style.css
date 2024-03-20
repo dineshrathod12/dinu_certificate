@@ -1,0 +1,9 @@
+#divsign{
+    display: flex;
+}
+#divsign>.p1{
+    margin-left: 100px;
+}
+#divsign>.p2{
+    margin-left: 100px;
+}
